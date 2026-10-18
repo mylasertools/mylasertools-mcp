@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mylasertools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search vector artwork, inspect previews and file formats, download eligible originals with your MyLaserTools account, and open free personalized design generators for laser cutting, engraving, and 3D printing.",
   "author": {
     "name": "MyLaserTools",
